@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <GLFW/glfw3.h>
 
-#include <glad/gl.h>
+#include "glad/gl.h"
 #include "linmath.h"
 
 void error_callback(int error, const char* description)
